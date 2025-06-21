@@ -3,7 +3,7 @@ from aiogram import Bot, Dispatcher, types
 from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton, ReplyKeyboardMarkup, KeyboardButton
 from aiogram.utils import executor
 
-API_TOKEN = "7752977498:AAG8Ntq86Te1fqnlp84x-1aPimD-9vQZYew"
+API_TOKEN = "7752977498:AAFznqjVgNQjEpWJ1IUZi5NVpC8YJG8n4nE"
 ADMIN_ID = 7766045121
 
 logging.basicConfig(level=logging.INFO)
